@@ -8,25 +8,51 @@
 
 #import "CountTestTests.h"
 
-@implementation CountTestTests
+@implementation CountTestTests {
+    Counter *counter;
+}
 
 - (void)setUp
 {
     [super setUp];
-    
     // Set-up code here.
+    counter = [[Counter alloc] init];
+    STAssertNotNil(counter, @"カウンターが初期化できません。");
 }
 
 - (void)tearDown
 {
     // Tear-down code here.
-    
+    [counter release];
     [super tearDown];
 }
 
-- (void)testExample
-{
-    STFail(@"Unit tests are not implemented yet in CountTestTests");
+- (void)testInit {
+    STAssertEquals([counter now], 0, @"カウンターの初期値が0ではありません");
+}
+
+- (void)testReset {
+    [counter reset];
+    STAssertEquals([counter now], 0, @"カウンターが初期化できません");
+}
+
+- (void)testIncliment {
+    [counter increment];
+    STAssertEquals([counter now], 1, @"インクリメントできません");
+}
+
+- (void)testInclimentof100 {
+    [counter reset];
+    for (int i=0; i < 100; i++) {
+        [counter increment];
+    }
+    STAssertEquals([counter now], 100, @"インクリメントできません");
+}
+
+- (void)testDecliment {
+    [counter reset];
+    [counter decrement];
+    STAssertEquals([counter now], -1, @"デクリメントできません");
 }
 
 @end

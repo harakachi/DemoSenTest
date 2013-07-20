@@ -21,6 +21,7 @@
 		7384296716D36F7F0066504F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7384294816D36F7F0066504F /* Foundation.framework */; };
 		7384296F16D36F7F0066504F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7384296D16D36F7F0066504F /* InfoPlist.strings */; };
 		7384297216D36F7F0066504F /* CountTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7384297116D36F7F0066504F /* CountTestTests.m */; };
+		7384297D16D36FCC0066504F /* Counter.m in Sources */ = {isa = PBXBuildFile; fileRef = 7384297C16D36FCC0066504F /* Counter.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		7384296E16D36F7F0066504F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7384297016D36F7F0066504F /* CountTestTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CountTestTests.h; sourceTree = "<group>"; };
 		7384297116D36F7F0066504F /* CountTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CountTestTests.m; sourceTree = "<group>"; };
+		7384297B16D36FCC0066504F /* Counter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Counter.h; path = ../Counter.h; sourceTree = "<group>"; };
+		7384297C16D36FCC0066504F /* Counter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Counter.m; path = ../Counter.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +117,8 @@
 			children = (
 				7384295516D36F7F0066504F /* CTAppDelegate.h */,
 				7384295616D36F7F0066504F /* CTAppDelegate.m */,
+				7384297B16D36FCC0066504F /* Counter.h */,
+				7384297C16D36FCC0066504F /* Counter.m */,
 				7384294D16D36F7F0066504F /* Supporting Files */,
 			);
 			path = CountTest;
@@ -264,6 +269,7 @@
 			files = (
 				7384295316D36F7F0066504F /* main.m in Sources */,
 				7384295716D36F7F0066504F /* CTAppDelegate.m in Sources */,
+				7384297D16D36FCC0066504F /* Counter.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,6 +440,7 @@
 				7384297716D36F7F0066504F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7384297816D36F7F0066504F /* Build configuration list for PBXNativeTarget "CountTestTests" */ = {
 			isa = XCConfigurationList;
@@ -442,6 +449,7 @@
 				7384297A16D36F7F0066504F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -7,6 +7,7 @@
 //
 
 #import <SenTestingKit/SenTestingKit.h>
+#import "Counter.h"
 
 @interface CountTestTests : SenTestCase
 

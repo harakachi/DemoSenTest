@@ -1,0 +1,318 @@
+TCountTest
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/Info.plist CountTest/CountTest-Info.plist
+cProcessPCH /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/PrecompiledHeaders/CountTest-Prefix-fdtructhtaydkgaljtwnuzwzoweb/CountTest-Prefix.pch.pth CountTest/CountTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o /Users/harada/Desktop/Obj-C/CountTest/CountTest/CTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o /Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o /Users/harada/Desktop/Obj-C/CountTest/CountTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/CountTest normal i386
+cGenerateDSYMFile /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app.dSYM /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/CountTest
+cCpResource CountTest/Default@2x.png Build/Products/Debug-iphonesimulator/CountTest.app/Default@2x.png
+cCopyStringsFile /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/en.lproj/InfoPlist.strings CountTest/en.lproj/InfoPlist.strings
+cCpResource CountTest/Default-568h@2x.png Build/Products/Debug-iphonesimulator/CountTest.app/Default-568h@2x.png
+cCpResource CountTest/Default.png Build/Products/Debug-iphonesimulator/CountTest.app/Default.png
+cTouch /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051BE9CDE0000000000000110
+t1371446494
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005177CCAE0000000000228FE0
+t1366805678
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005177CCAF00000000003DDFA0
+t1366805679
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005177CCAF00000000000015F7
+t1366805679
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000005177CCB30000000000000E8D
+t1366805683
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005177CCB50000000000AB6230
+t1366805685
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c000000005177CCC20000000000001B73
+t1366805698
+s7027
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o
+t1374297577
+s87740
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CountTest.LinkFileList
+c0000000051EA1DE800000000000001AD
+t1374297576
+s429
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o
+t1374298492
+s6680
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o
+t1374297577
+s3164
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/PrecompiledHeaders/CountTest-Prefix-fdtructhtaydkgaljtwnuzwzoweb/CountTest-Prefix.pch.pth
+t1374297577
+s4668204
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app
+t1374298492
+s306
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app.dSYM
+t1374298492
+s102
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/CountTest
+t1374298492
+s17488
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/Default-568h@2x.png
+t1374297578
+s18594
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/Default.png
+t1374297578
+s6540
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/Default@2x.png
+t1374297578
+s16107
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/Info.plist
+t1374297576
+s801
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/PkgInfo
+t1374297576
+s8
+
+N/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/en.lproj/InfoPlist.strings
+t1374297578
+s42
+
+N/Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.h
+c0000000051EA21220000000000000153
+t1374298402
+s339
+
+N/Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.m
+c0000000051EA215800000000000001CC
+t1374298456
+s460
+
+N/Users/harada/Desktop/Obj-C/CountTest/CountTest/CTAppDelegate.h
+c00000000512337FF0000000000000125
+t1361262591
+s293
+
+N/Users/harada/Desktop/Obj-C/CountTest/CountTest/CTAppDelegate.m
+c00000000512337FF00000000000008E1
+t1361262591
+s2273
+
+N/Users/harada/Desktop/Obj-C/CountTest/CountTest/CountTest-Prefix.pch
+c00000000512337FF0000000000000141
+t1361262591
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/harada/Desktop/Obj-C/CountTest/CountTest/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/harada/Desktop/Obj-C/CountTest/CountTest/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/harada/Desktop/Obj-C/CountTest/CountTest/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/harada/Desktop/Obj-C/CountTest/CountTest/en.lproj/InfoPlist.strings
+c00000000512337FF000000000000002D
+t1361262591
+s45
+
+N/Users/harada/Desktop/Obj-C/CountTest/CountTest/main.m
+c00000000512337FF0000000000000160
+t1361262591
+s352
+
+N/Users/harada/Desktop/Obj-C/CountTest/Counter.m
+c0000000051233D6E00000000000001D9
+t1361263982
+s473
+
+NCountTest/CountTest-Info.plist
+c00000000512337FF0000000000000491
+t1361262591
+s1169
+
+CBuild AST from /Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.m
+r0
+
+CBuild AST from /Users/harada/Desktop/Obj-C/CountTest/CountTest/CTAppDelegate.m
+r0
+
+CBuild AST from /Users/harada/Desktop/Obj-C/CountTest/CountTest/main.m
+r0
+
+CBuild AST from /Users/harada/Desktop/Obj-C/CountTest/Counter.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies988780d05a9ab741^58c880d05a9ab741^---0#1#0#--18"Check dependencies36"8EF3C735-18B9-4001-B5C1-01787F479E35-
+
+CCompileC Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o /Users/harada/Desktop/Obj-C/CountTest/CountTest/CTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395990377.470420
+e395990377.602829
+r1
+xCompileC
+xBuild/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o
+x/Users/harada/Desktop/Obj-C/CountTest/CountTest/CTAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/harada/Desktop/Obj-C/CountTest/CountTest/CTAppDelegate.mae9d7869559ab741^0d549a69559ab741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/harada/Desktop/Obj-C/CountTest/CountTest/CTAppDelegate.m0000000000000000^3797"CompileC Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o CountTest/CTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/Obj-C/CountTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/harada/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/harada/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-generated-files.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-own-target-headers.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-all-target-headers.hmap -iquote /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-project-headers.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources/i386 -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources -F/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator -include /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/PrecompiledHeaders/CountTest-Prefix-fdtructhtaydkgaljtwnuzwzoweb/CountTest-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.d --serialize-diagnostics /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.dia -c /Users/harada/Desktop/Obj-C/CountTest/CountTest/CTAppDelegate.m -o /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CTAppDelegate.o36"E074DC8F-D283-4574-A7A3-0B4D30A0A3C3-
+
+CCompileC Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o /Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395991291.990786
+e395991292.040920
+r1
+xCompileC
+xBuild/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o
+x/Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.m5fd1fdfb589ab741^25790afc589ab741^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.m0000000000000000^3588"CompileC Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o CountTest/../Counter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/Obj-C/CountTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-generated-files.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-own-target-headers.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-all-target-headers.hmap -iquote /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-project-headers.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources/i386 -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources -F/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator -include /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/PrecompiledHeaders/CountTest-Prefix-fdtructhtaydkgaljtwnuzwzoweb/CountTest-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.d --serialize-diagnostics /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.dia -c /Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.m -o /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o36"1193074A-02C8-4507-9349-C7215277A48A-
+
+CCompileC Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/Counter.o /Users/harada/Desktop/Obj-C/CountTest/Counter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o /Users/harada/Desktop/Obj-C/CountTest/CountTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395990377.470357
+e395990377.597258
+r1
+xCompileC
+xBuild/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o
+x/Users/harada/Desktop/Obj-C/CountTest/CountTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/harada/Desktop/Obj-C/CountTest/CountTest/main.m86937869559ab741^3fe59869559ab741^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/harada/Desktop/Obj-C/CountTest/CountTest/main.m0000000000000000^3743"CompileC Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o CountTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/Obj-C/CountTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/harada/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/harada/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-generated-files.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-own-target-headers.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-all-target-headers.hmap -iquote /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-project-headers.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources/i386 -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources -F/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator -include /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/PrecompiledHeaders/CountTest-Prefix-fdtructhtaydkgaljtwnuzwzoweb/CountTest-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.dia -c /Users/harada/Desktop/Obj-C/CountTest/CountTest/main.m -o /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/main.o36"D79D2FC6-2C1F-43D8-9892-365D6F1CD8CA-
+
+CCopyStringsFile /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/en.lproj/InfoPlist.strings CountTest/en.lproj/InfoPlist.strings
+s395990377.999758
+e395990378.005557
+r1
+xCopyStringsFile
+x/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/en.lproj/InfoPlist.strings
+xCountTest/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy CountTest/en.lproj/InfoPlist.stringseb1f006a559ab741^9e79016a559ab741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/harada/Desktop/Obj-C/CountTest/CountTest/en.lproj/InfoPlist.strings0000000000000000^778"CopyStringsFile Build/Products/Debug-iphonesimulator/CountTest.app/en.lproj/InfoPlist.strings CountTest/en.lproj/InfoPlist.strings    cd /Users/harada/Desktop/Obj-C/CountTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/harada/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/harada/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/en.lproj -- CountTest/en.lproj/InfoPlist.strings36"92786B6F-2CF5-4604-975A-0209DAD7BF57-
+
+CCpResource CountTest/Default-568h@2x.png Build/Products/Debug-iphonesimulator/CountTest.app/Default-568h@2x.png
+s395990378.000224
+e395990378.005997
+r1
+xCpResource
+xCountTest/Default-568h@2x.png
+xBuild/Products/Debug-iphonesimulator/CountTest.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug-iphonesimulator/CountTest.app/Default-568h@2x.png8333006a559ab741^a8c4016a559ab741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/Default-568h@2x.png000000000080d041^806"CpResource "CountTest/Default-568h@2x.png" "Build/Products/Debug-iphonesimulator/CountTest.app/Default-568h@2x.png"    cd /Users/harada/Desktop/Obj-C/CountTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/harada/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/harada/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/harada/Desktop/Obj-C/CountTest/CountTest/Default-568h@2x.png" /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app36"075C1E00-B3C5-4F59-A47E-801DD437397C-
+
+CCpResource CountTest/Default.png Build/Products/Debug-iphonesimulator/CountTest.app/Default.png
+s395990378.000108
+e395990378.007890
+r1
+xCpResource
+xCountTest/Default.png
+xBuild/Products/Debug-iphonesimulator/CountTest.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy Build/Products/Debug-iphonesimulator/CountTest.app/Default.pnge547006a559ab741^520e026a559ab741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/Default.png000000000080d041^776"CpResource CountTest/Default.png Build/Products/Debug-iphonesimulator/CountTest.app/Default.png    cd /Users/harada/Desktop/Obj-C/CountTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/harada/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/harada/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/harada/Desktop/Obj-C/CountTest/CountTest/Default.png /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app36"2DA2491F-D3D4-4438-A27A-33AA495A7195-
+
+CCpResource CountTest/Default@2x.png Build/Products/Debug-iphonesimulator/CountTest.app/Default@2x.png
+s395990378.000127
+e395990378.008390
+r1
+xCpResource
+xCountTest/Default@2x.png
+xBuild/Products/Debug-iphonesimulator/CountTest.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphonesimulator/CountTest.app/Default@2x.pngec32006a559ab741^9625026a559ab741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/Default@2x.png000000000080d041^791"CpResource "CountTest/Default@2x.png" "Build/Products/Debug-iphonesimulator/CountTest.app/Default@2x.png"    cd /Users/harada/Desktop/Obj-C/CountTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/harada/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/harada/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/harada/Desktop/Obj-C/CountTest/CountTest/Default@2x.png" /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app36"7F4F88E5-027E-4BE3-BF00-BF8DEDD62E4F-
+
+CGenerateDSYMFile /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app.dSYM /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/CountTest
+s395991292.098175
+e395991292.134875
+r1
+xGenerateDSYMFile
+x/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app.dSYM
+x/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/CountTest
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app.dSYM914619fc589ab741^1a8722fc589ab741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app.dSYM/0000000000000000^670"GenerateDSYMFile Build/Products/Debug-iphonesimulator/CountTest.app.dSYM Build/Products/Debug-iphonesimulator/CountTest.app/CountTest    cd /Users/harada/Desktop/Obj-C/CountTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/CountTest -o /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app.dSYM36"A9655631-1512-45C9-8AF6-219D25865378-
+
+CLd /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/CountTest normal i386
+s395991292.047806
+e395991292.091206
+r1
+xLd
+x/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/CountTest
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/CountTest2f690cfc589ab741^795917fc589ab741^---0#0#0#--1195"Ld Build/Products/Debug-iphonesimulator/CountTest.app/CountTest normal i386    cd /Users/harada/Desktop/Obj-C/CountTest    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator -F/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator -filelist /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/Objects-normal/i386/CountTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/CountTest36"F46377E7-333D-40A9-9571-EAF784947C85-
+
+CProcessInfoPlistFile /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/Info.plist CountTest/CountTest-Info.plist
+s395990376.863723
+e395990376.876343
+r1
+xProcessInfoPlistFile
+x/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/Info.plist
+xCountTest/CountTest-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process CountTest/CountTest-Info.plistd13fdd68559ab741^0458e068559ab741^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/harada/Desktop/Obj-C/CountTest/CountTest/CountTest-Info.plist0000000000000000^867"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/CountTest.app/Info.plist CountTest/CountTest-Info.plist    cd /Users/harada/Desktop/Obj-C/CountTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/harada/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/harada/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility CountTest/CountTest-Info.plist -genpkginfo /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app/Info.plist36"76931E97-7907-412F-A058-D3E4787F2B37-
+
+CProcessPCH /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/PrecompiledHeaders/CountTest-Prefix-fdtructhtaydkgaljtwnuzwzoweb/CountTest-Prefix.pch.pth CountTest/CountTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395990376.892603
+e395990377.463356
+r1
+xProcessPCH
+x/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/PrecompiledHeaders/CountTest-Prefix-fdtructhtaydkgaljtwnuzwzoweb/CountTest-Prefix.pch.pth
+xCountTest/CountTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile CountTest/CountTest-Prefix.pch60abe468559ab741^2c9e7669559ab741^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/harada/Desktop/Obj-C/CountTest/CountTest/CountTest-Prefix.pch0000000000000000^3659"ProcessPCH Build/Intermediates/PrecompiledHeaders/CountTest-Prefix-fdtructhtaydkgaljtwnuzwzoweb/CountTest-Prefix.pch.pth CountTest/CountTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/Obj-C/CountTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448/bin:/Users/harada/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/harada/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/harada/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-generated-files.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-own-target-headers.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-all-target-headers.hmap -iquote /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/CountTest-project-headers.hmap -I/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources/i386 -I/Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/CountTest.build/Debug-iphonesimulator/CountTest.build/DerivedSources -F/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/PrecompiledHeaders/CountTest-Prefix-fdtructhtaydkgaljtwnuzwzoweb/CountTest-Prefix.pch.dia -c /Users/harada/Desktop/Obj-C/CountTest/CountTest/CountTest-Prefix.pch -o /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/PrecompiledHeaders/CountTest-Prefix-fdtructhtaydkgaljtwnuzwzoweb/CountTest-Prefix.pch.pth -MMD -MT dependencies -MF /Users/harada/Desktop/Obj-C/CountTest/Build/Intermediates/PrecompiledHeaders/CountTest-Prefix-fdtructhtaydkgaljtwnuzwzoweb/CountTest-Prefix.pch.d36"05C760F3-51CD-4173-9714-2A9E5C6490BB-
+
+CProcessPCH /Users/harada/Library/Developer/Xcode/DerivedData/CountTest-brmsxmuhilcdysadgndzebkgfvoi/Index/PrecompiledHeaders/CountTest-Prefix-ewqczktmjzrrwreqkyfmjxhowpic_ast/CountTest-Prefix.pch.pth CountTest/CountTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app
+s395991292.150851
+e395991292.165524
+r1
+xTouch
+x/Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app25b326fc589ab741^d95f2afc589ab741^---0#0#0#--408"Touch Build/Products/Debug-iphonesimulator/CountTest.app    cd /Users/harada/Desktop/Obj-C/CountTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/harada/Desktop/Obj-C/CountTest/Build/Products/Debug-iphonesimulator/CountTest.app36"75631B5B-2926-43D8-BEB0-7EC4425B84F6-
+
