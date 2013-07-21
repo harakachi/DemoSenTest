@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/harada/Desktop/Obj-C/CountTest/CountTestTests/CountTestTests.m \
-  /Users/harada/Desktop/Obj-C/CountTest/CountTestTests/CountTestTests.h \
+  /Users/harada/Desktop/Obj-C/DemoSenTest/CountTestTests/CountTestTests.m \
+  /Users/harada/Desktop/Obj-C/DemoSenTest/CountTestTests/CountTestTests.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h \
@@ -17,4 +17,4 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h \
-  /Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.h
+  /Users/harada/Desktop/Obj-C/DemoSenTest/CountTest/../Counter.h

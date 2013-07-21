@@ -1,2 +1,2 @@
-dependencies: /Users/harada/Desktop/Obj-C/CountTest/CountTest/main.m \
-  /Users/harada/Desktop/Obj-C/CountTest/CountTest/CTAppDelegate.h
+dependencies: /Users/harada/Desktop/Obj-C/DemoSenTest/CountTest/main.m \
+  /Users/harada/Desktop/Obj-C/DemoSenTest/CountTest/CTAppDelegate.h

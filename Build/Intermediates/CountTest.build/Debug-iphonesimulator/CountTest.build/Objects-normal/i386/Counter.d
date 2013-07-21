@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.m \
-  /Users/harada/Desktop/Obj-C/CountTest/CountTest/../Counter.h
+  /Users/harada/Desktop/Obj-C/DemoSenTest/CountTest/../Counter.m \
+  /Users/harada/Desktop/Obj-C/DemoSenTest/CountTest/../Counter.h

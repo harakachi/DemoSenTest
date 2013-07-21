@@ -42,7 +42,6 @@
 }
 
 - (void)testInclimentof100 {
-    [counter reset];
     for (int i=0; i < 100; i++) {
         [counter increment];
     }
@@ -50,7 +49,6 @@
 }
 
 - (void)testDecliment {
-    [counter reset];
     [counter decrement];
     STAssertEquals([counter now], -1, @"デクリメントできません");
 }
